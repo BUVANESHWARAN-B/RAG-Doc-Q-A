@@ -1,0 +1,9 @@
+streamlit
+llama-parse
+langchain-core
+langchain-community
+langchain-experimental
+langchain-google-genai
+faiss-cpu
+rank-bm25
+sentence-transformers
